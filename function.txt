@@ -1,0 +1,8 @@
+
+if you want to modify any file in central repository
+
+we have to use git clone command
+
+after modifing the file we have to checkout the file
+
+by busing cat command
