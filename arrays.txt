@@ -1,0 +1,6 @@
+this is arrays in shell scripting
+
+it is used to indexing the file content
+
+by using these arrays we have to add or deleting the file by using the indexing
+
